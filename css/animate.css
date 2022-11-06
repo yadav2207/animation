@@ -1,0 +1,26 @@
+*{
+    background-color: antiquewhite;
+   padding: 10px; 
+   
+}
+.box1{
+width: 200px;
+height: 200px;
+background-color: aquamarine;
+
+}
+.box2{
+ width: 200px;
+height: 200px;
+background-color: green;
+}
+.box3{
+  width: 200px;
+height: 200px;
+background-color: rgb(234, 106, 20);
+}
+.box4{
+  width: 200px;
+height: 200px;
+background-color: rgb(13, 236, 162);
+}
